@@ -7,4 +7,5 @@ input.addEventListener('input',() =>{
     ? output.textContent = 'Anonymous'
     : output.textContent = inputNormalize
 
-})
+}
+)
