@@ -11,4 +11,5 @@ const color  = getRandomHexColor();
 body.style.backgroundColor = color;
 document.querySelector('.color').textContent = color;
 }
+
 document.querySelector('.change-color').onclick = changeBackgroundColor;
